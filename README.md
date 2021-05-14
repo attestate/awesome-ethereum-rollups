@@ -7,6 +7,10 @@ A list of resources related to increasing the throughput of transactions on the 
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 
+## Presentation
+
+- [SIDECHAINS ARE NOT LAYER 2](https://www.gakonst.com/sidechains2019.pdf)
+
 ## EIPs
 
 - [EIP-2028: Transaction data gas cost reduction](https://eips.ethereum.org/EIPS/eip-2028)
