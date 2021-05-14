@@ -3,9 +3,10 @@
 A list of resources related to increasing the throughput of transactions on the Ethereum mainnet.
 
 
-## Guides
+## Rollups
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
+- [Hop: Send Tokens Across Rollups](https://ethresear.ch/t/hop-send-tokens-across-rollups/8581)
 
 ## Layer 2
 
