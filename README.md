@@ -11,6 +11,11 @@ A list of resources related to increasing the throughput of transactions on the 
 
 - [SIDECHAINS ARE NOT LAYER 2](https://www.gakonst.com/sidechains2019.pdf)
 
+## Smart Contracts and Layer 2
+
+- [Why Smart Contracts are NOT feasible on Plasma](https://ethresear.ch/t/why-smart-contracts-are-not-feasible-on-plasma/2598)
+- [OVM Deep Dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52)
+
 ## EIPs
 
 - [EIP-2028: Transaction data gas cost reduction](https://eips.ethereum.org/EIPS/eip-2028)
