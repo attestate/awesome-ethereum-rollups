@@ -14,6 +14,7 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Why Smart Contracts are NOT feasible on Plasma](https://ethresear.ch/t/why-smart-contracts-are-not-feasible-on-plasma/2598)
 - [OVM Deep Dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52)
 - [A note on bridges & layer-2 protocols](https://stonecoldpat.medium.com/a-note-on-bridges-layer-2-protocols-b01f8fc22324)
+- [Pessimistic rollup: Scalable batched smart contract interactions](https://ethresear.ch/t/pessimistic-rollup-scalable-batched-smart-contract-interactions/7765)
 
 ## EIPs
 
@@ -40,8 +41,13 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 
 ## Projects
 
-- Optimistic:
+- Optimistic Rollups:
   - [The Hubble Project](https://github.com/thehubbleproject)
+  - [Arbitrum](https://github.com/OffchainLabs/arbitrum)
+  - [Nutberry](https://github.com/NutBerry)
+  - [Optimism](https://github.com/ethereum-optimism)
+- Pessimistic Rollups:
+  - [Pessimistic swaps](https://github.com/kautukkundan/pessimistic-swaps)
 - Zero Knowledge Proof
   - [Cairo Programming Language](https://www.cairo-lang.org/)
 - Rollup Interoperability
