@@ -7,6 +7,7 @@ A list of resources related to increasing the throughput of transactions on the 
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [Hop: Send Tokens Across Rollups](https://ethresear.ch/t/hop-send-tokens-across-rollups/8581)
+- [EVM optimistic rollup using Truebit](https://ethresear.ch/t/evm-optimistic-rollup-using-truebit/9318)
 
 ### Side chains and Layer 2
 
