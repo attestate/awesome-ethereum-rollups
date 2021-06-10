@@ -32,8 +32,9 @@ A list of resources related to increasing the throughput of transactions on the 
 ## Solidity
 
 - [List of Solidity libraries in the wild](https://forum.openzeppelin.com/t/list-of-solidity-libraries-in-the-wild/2250)
+- [ethereum/eth2.0-specs](https://github.com/ethereum/eth2.0-specs/blob/a553e3b18e77db954944d76994e40fb675b48009/ssz/merkle-proofs.md)
 
-### Merkle Tree Implementations in Solidity
+### Merkle Tree Implementations
 
 sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-sparse-merkle-trees/3751). In the listing below, a ✔️ indicates that the authors claim to have made gas optimizations.
 
@@ -43,7 +44,7 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 - [OffchainLabs/arbitrum MerkleLib.sol](https://github.com/OffchainLabs/arbitrum/blob/4f1a02688639f8f98f5357b30af5c437ba714553/packages/arb-bridge-eth/contracts/libraries/MerkleLib.sol)
 - [ethereum-optimism/optimism MerkleTrie.sol](https://github.com/ethereum-optimism/optimism/blob/cc742715ecbca98248367d67f51a5f03038f5ba2/packages/contracts/contracts/optimistic-ethereum/libraries/trie/Lib_MerkleTrie.sol)
 - [kautukkundan/pessimistic-swaps AccountTree.sol](https://github.com/kautukkundan/pessimistic-swaps/blob/afc6c7247ca7829dbbc9e47adc7e39c5c97783eb/contracts/AccountTree.sol)
-- [ethereum/eth2.0-specs](https://github.com/ethereum/eth2.0-specs/blob/a553e3b18e77db954944d76994e40fb675b48009/ssz/merkle-proofs.md)
+- [OpenZeppelin/openzeppelin-contracts MerkleProof.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/9d5f77db9da0604ce0b25148898a94ae2c20d70f/contracts/utils/cryptography/MerkleProof.sol)
 
 ## Projects
 
