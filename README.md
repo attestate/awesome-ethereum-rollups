@@ -24,9 +24,10 @@ A list of resources related to increasing the throughput of transactions on the 
 
 - [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)
 
-## Saving Gas
+## Gas, Memory pool
 
 - [Saving Gas on the Ethereum Mainnet](https://timdaub.github.io/2021/04/19/ethereum-web3-saving-gas-mainnet/)
+- [Flashbots documentation](https://docs.flashbots.net/)
 
 ## Merkle Tree Implementations in Solidity
 
