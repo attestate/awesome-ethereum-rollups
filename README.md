@@ -29,9 +29,11 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Saving Gas on the Ethereum Mainnet](https://timdaub.github.io/2021/04/19/ethereum-web3-saving-gas-mainnet/)
 - [Flashbots documentation](https://docs.flashbots.net/)
 
-## Merkle Tree Implementations in Solidity
+## Solidity
 
-- M
+- [List of Solidity libraries in the wild](https://forum.openzeppelin.com/t/list-of-solidity-libraries-in-the-wild/2250)
+
+### Merkle Tree Implementations in Solidity
 
 sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-sparse-merkle-trees/3751). In the listing below, a ✔️ indicates that the authors claim to have made gas optimizations.
 
