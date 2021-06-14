@@ -2,7 +2,6 @@
 
 A list of resources related to increasing the throughput of transactions on the Ethereum mainnet.
 
-
 ## Rollups
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
@@ -35,7 +34,13 @@ A list of resources related to increasing the throughput of transactions on the 
 - [List of Solidity libraries in the wild](https://forum.openzeppelin.com/t/list-of-solidity-libraries-in-the-wild/2250)
 - [ethereum/eth2.0-specs](https://github.com/ethereum/eth2.0-specs/blob/a553e3b18e77db954944d76994e40fb675b48009/ssz/merkle-proofs.md)
 
-### Merkle Tree Implementations
+## Data Structures
+
+- [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
+
+## Implementations
+
+### Merkle Trees
 
 sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-sparse-merkle-trees/3751). In the listing below, a ✔️ indicates that the authors claim to have made gas optimizations.
 
