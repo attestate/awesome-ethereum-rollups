@@ -53,8 +53,9 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 - [kautukkundan/pessimistic-swaps AccountTree.sol](https://github.com/kautukkundan/pessimistic-swaps/blob/afc6c7247ca7829dbbc9e47adc7e39c5c97783eb/contracts/AccountTree.sol)
 - [OpenZeppelin/openzeppelin-contracts MerkleProof.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/9d5f77db9da0604ce0b25148898a94ae2c20d70f/contracts/utils/cryptography/MerkleProof.sol)
 
-### Rollups
+### Projects
 
+- [Layer 2 Index L2Beat](https://l2beat.com/)
 - Optimistic Rollups:
   - [The Hubble Project](https://github.com/thehubbleproject)
   - [Arbitrum](https://github.com/OffchainLabs/arbitrum)
@@ -64,5 +65,6 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
   - [Pessimistic swaps](https://github.com/kautukkundan/pessimistic-swaps)
 - Zero Knowledge Proof
   - [Cairo Programming Language](https://www.cairo-lang.org/)
+  - [zkSync](https://zksync.io/)
 - Rollup Interoperability
   - [hop.exchange](https://hop.exchange/)
