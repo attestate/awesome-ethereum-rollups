@@ -2,32 +2,28 @@
 
 A list of resources related to increasing the throughput of transactions on the Ethereum mainnet.
 
-## Rollups
+## Rollup, L2, and Side chain articles
 
 - [An Incomplete Guide to Rollups](https://vitalik.ca/general/2021/01/05/rollup.html)
 - [Hop: Send Tokens Across Rollups](https://ethresear.ch/t/hop-send-tokens-across-rollups/8581)
 - [EVM optimistic rollup using Truebit](https://ethresear.ch/t/evm-optimistic-rollup-using-truebit/9318)
-
-### Side chains and Layer 2
-
 - [SIDECHAINS ARE NOT LAYER 2](https://www.gakonst.com/sidechains2019.pdf)
 - [Why Smart Contracts are NOT feasible on Plasma](https://ethresear.ch/t/why-smart-contracts-are-not-feasible-on-plasma/2598)
 - [OVM Deep Dive](https://medium.com/ethereum-optimism/ovm-deep-dive-a300d1085f52)
 - [A note on bridges & layer-2 protocols](https://stonecoldpat.medium.com/a-note-on-bridges-layer-2-protocols-b01f8fc22324)
 - [Pessimistic rollup: Scalable batched smart contract interactions](https://ethresear.ch/t/pessimistic-rollup-scalable-batched-smart-contract-interactions/7765)
+- [BentoBox, to launch and beyond](https://boringcrypto.medium.com/bentobox-to-launch-and-beyond-d2d5dc2350bd)
 
-## EIPs
+## Protocols
 
 - [EIP-2028: Transaction data gas cost reduction](https://eips.ethereum.org/EIPS/eip-2028)
+- [Ethereum Wire Protocol](https://github.com/ethereum/devp2p/blob/master/caps/eth.md)
+- [Flashbots documentation](https://docs.flashbots.net/)
 
-## Electricity & Sustainability
+## Electricity, Sustainability, Gas
 
 - [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)
-
-## Gas, Memory pool
-
 - [Saving Gas on the Ethereum Mainnet](https://timdaub.github.io/2021/04/19/ethereum-web3-saving-gas-mainnet/)
-- [Flashbots documentation](https://docs.flashbots.net/)
 
 ## Solidity
 
@@ -37,6 +33,7 @@ A list of resources related to increasing the throughput of transactions on the 
 ## Data Structures
 
 - [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
+- [Erigon DB Walkthrough](https://github.com/ledgerwatch/erigon/blob/devel/docs/programmers_guide/db_walkthrough.MD)
 
 ## Implementations
 
