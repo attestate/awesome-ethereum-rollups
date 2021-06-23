@@ -37,7 +37,7 @@ A list of resources related to increasing the throughput of transactions on the 
 
 ### Virtual Machines
 
-- [weiroll/weiroll](https://github.com/weiroll/weiroll
+- [weiroll/weiroll](https://github.com/weiroll/weiroll)
 
 ### Merkle Mountain Ranges
 
