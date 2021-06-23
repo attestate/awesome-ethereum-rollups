@@ -35,6 +35,10 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 - [Erigon DB Walkthrough](https://github.com/ledgerwatch/erigon/blob/devel/docs/programmers_guide/db_walkthrough.MD)
 
+### Virtual Machines
+
+- [weiroll/weiroll](https://github.com/weiroll/weiroll
+
 ### Merkle Mountain Ranges
 
 -  [opentimestamps/opentimestamps-server merkle-mountain-range.md](https://github.com/opentimestamps/opentimestamps-server/blob/ac67218c3d45a93519bea0ec151b1e3629f87bd5/doc/merkle-mountain-range.md)
