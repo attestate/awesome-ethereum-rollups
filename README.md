@@ -35,7 +35,11 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 - [Erigon DB Walkthrough](https://github.com/ledgerwatch/erigon/blob/devel/docs/programmers_guide/db_walkthrough.MD)
 
-## Implementations
+### Merkle Mountain Ranges
+
+-  [opentimestamps/opentimestamps-server merkle-mountain-range.md](https://github.com/opentimestamps/opentimestamps-server/blob/ac67218c3d45a93519bea0ec151b1e3629f87bd5/doc/merkle-mountain-range.md)
+- [nervosnetwork/merkle-mountain-range readme.md](https://github.com/nervosnetwork/merkle-mountain-range/blob/9f9a95c73edf3d2dde21a53d02e7a3749ef1a4a3/README.md)
+- [mimblewimble/grin mmr.md](https://github.com/mimblewimble/grin/blob/172143f7eabbe973c6fa4ee24d8f9a8fc4bae363/doc/mmr.md)
 
 ### Merkle Trees
 
