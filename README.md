@@ -24,6 +24,7 @@ A list of resources related to increasing the throughput of transactions on the 
 
 - [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)
 - [Saving Gas on the Ethereum Mainnet](https://timdaub.github.io/2021/04/19/ethereum-web3-saving-gas-mainnet/)
+- [Gas cost of BLS Signatures](https://ethresear.ch/t/bls-signatures-in-solidity/7919)
 
 ## Solidity
 
@@ -34,6 +35,7 @@ A list of resources related to increasing the throughput of transactions on the 
 
 - [Merkling in Ethereum](https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/)
 - [Erigon DB Walkthrough](https://github.com/ledgerwatch/erigon/blob/devel/docs/programmers_guide/db_walkthrough.MD)
+- [jzaki/bls-wallet](https://github.com/jzaki/bls-wallet)
 
 ### Virtual Machines
 
