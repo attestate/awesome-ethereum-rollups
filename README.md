@@ -13,6 +13,7 @@ A list of resources related to increasing the throughput of transactions on the 
 - [A note on bridges & layer-2 protocols](https://stonecoldpat.medium.com/a-note-on-bridges-layer-2-protocols-b01f8fc22324)
 - [Pessimistic rollup: Scalable batched smart contract interactions](https://ethresear.ch/t/pessimistic-rollup-scalable-batched-smart-contract-interactions/7765)
 - [BentoBox, to launch and beyond](https://boringcrypto.medium.com/bentobox-to-launch-and-beyond-d2d5dc2350bd)
+- [Optimistic Rollup is Not Secure Enough Than You Think — Game Theoretic Approach for More Verifiable Rollup](https://medium.com/onther-tech/optimistic-rollup-is-not-secure-enough-than-you-think-cb23e6e6f11c)
 
 ## Protocols
 
