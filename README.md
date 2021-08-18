@@ -46,6 +46,7 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Bloom filter online optimizer](https://hur.st/bloomfilter/?n=&p=0.01&m=256&k=)
 - [Bloom filters By Example](https://llimllib.github.io/bloomfilter-tutorial/)
 - [Simple Bloom Filter in Solidity](https://github.com/wanseob/solidity-bloom-filter)
+- [Probabilistic Filters By Example: Cuckoo vs. bloom filters](https://bdupras.github.io/filter-tutorial/)
 
 ### Virtual Machines
 
