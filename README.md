@@ -37,6 +37,15 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Erigon DB Walkthrough](https://github.com/ledgerwatch/erigon/blob/devel/docs/programmers_guide/db_walkthrough.MD)
 - [jzaki/bls-wallet](https://github.com/jzaki/bls-wallet)
 
+### Membership-proof data structures
+
+- [FAN, Bin, et al. Cuckoo filter: Practically better than bloom. In: Proceedings of the 10th ACM International on Conference on emerging Networking Experiments and Technologies. 2014. S. 75-88.](https://dl.acm.org/doi/abs/10.1145/2674005.2674994)
+- [Golomb-coded map implementation](https://github.com/0xcb/Golomb-coded-map)
+- [Xor filter implementation](https://github.com/FastFilter/xor_singleheader/)
+- [Bloom filter online optimizer](https://hur.st/bloomfilter/?n=&p=0.01&m=256&k=)
+- [Bloom filters By Example](https://llimllib.github.io/bloomfilter-tutorial/)
+- [Simple Bloom Filter in Solidity](https://github.com/wanseob/solidity-bloom-filter)
+
 ### Virtual Machines
 
 - [weiroll/weiroll](https://github.com/weiroll/weiroll)
