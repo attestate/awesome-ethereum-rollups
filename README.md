@@ -26,6 +26,7 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Cambridge Bitcoin Electricity Consumption Index](https://cbeci.org/)
 - [Saving Gas on the Ethereum Mainnet](https://timdaub.github.io/2021/04/19/ethereum-web3-saving-gas-mainnet/)
 - [Gas cost of BLS Signatures](https://ethresear.ch/t/bls-signatures-in-solidity/7919)
+- [awesome-solidity-gas-optimization](https://github.com/iskanderandrews/awesome-solidity-gas-optimization)
 
 ## Solidity
 
