@@ -75,7 +75,7 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 - [kautukkundan/pessimistic-swaps AccountTree.sol](https://github.com/kautukkundan/pessimistic-swaps/blob/afc6c7247ca7829dbbc9e47adc7e39c5c97783eb/contracts/AccountTree.sol)
 - [OpenZeppelin/openzeppelin-contracts MerkleProof.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/9d5f77db9da0604ce0b25148898a94ae2c20d70f/contracts/utils/cryptography/MerkleProof.sol)
 - [dharma-eng/Tiramisu lib/merkle](https://github.com/dharma-eng/Tiramisu/tree/8bbbc3df2a427e208181f0875997146690480810/contracts/lib/merkle)
-- [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/https://github.com/rugpullindex/indexed-sparse-merkle-tree) ✔️
+- [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/indexed-sparse-merkle-tree) ✔️
 
 ### Projects
 
