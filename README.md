@@ -64,9 +64,9 @@ A list of resources related to increasing the throughput of transactions on the 
 
 ### Merkle Trees
 
-sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-sparse-merkle-trees/3751). In the listing below, a ✔️ indicates that the authors claim to have made gas optimizations.
+sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-sparse-merkle-trees/3751). In the listing below, a ✔️ indicates that the tree has been gas optimized.
 
-- [ethereum/eth2.0-specs deposit_contract.sol](https://github.com/ethereum/eth2.0-specs/blob/34fc0a5d09fae6649e0c6ac7a0cb09ff5a999957/solidity_deposit_contract/deposit_contract.sol)
+- [ethereum/eth2.0-specs deposit_contract.sol](https://github.com/ethereum/eth2.0-specs/blob/34fc0a5d09fae6649e0c6ac7a0cb09ff5a999957/solidity_deposit_contract/deposit_contract.sol) ✔️
 - [leapdao/leap-contracts SparseMerkleTree.sol](https://github.com/leapdao/leap-contracts/blob/3848ee1901f015ab9580922c602fc5921cfd1e67/contracts/SparseMerkleTree.sol) ✔️
 - [loomnetwork/plasma-cash SparseMerkleTree.sol](https://github.com/loomnetwork/plasma-cash/blob/9f916cbd5d70f83a6da8b451eaa3d8881f444153/server/contracts/Core/SparseMerkleTree.sol) ✔️
 - [thehubbleproject/hubble-contracts MerkleTree.sol](https://github.com/thehubbleproject/hubble-contracts/blob/402668797ff7454996323113128c693a87011c79/contracts/libs/MerkleTree.sol)
@@ -75,7 +75,7 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 - [kautukkundan/pessimistic-swaps AccountTree.sol](https://github.com/kautukkundan/pessimistic-swaps/blob/afc6c7247ca7829dbbc9e47adc7e39c5c97783eb/contracts/AccountTree.sol)
 - [OpenZeppelin/openzeppelin-contracts MerkleProof.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/9d5f77db9da0604ce0b25148898a94ae2c20d70f/contracts/utils/cryptography/MerkleProof.sol)
 - [dharma-eng/Tiramisu lib/merkle](https://github.com/dharma-eng/Tiramisu/tree/8bbbc3df2a427e208181f0875997146690480810/contracts/lib/merkle)
-- [rugpullindex/append-only-sparse-merkle-tree](https://github.com/rugpullindex/append-only-sparse-merkle-tree/blob/82110d0e9159083bd95a917c5e41e8e3f2aa9091/src/StateTree.sol)
+- [rugpullindex/indexed-sparse-merkle-tree](https://github.com/rugpullindex/https://github.com/rugpullindex/indexed-sparse-merkle-tree) ✔️
 
 ### Projects
 
