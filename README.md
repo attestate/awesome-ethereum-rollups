@@ -28,6 +28,12 @@ A list of resources related to increasing the throughput of transactions on the 
 - [Gas cost of BLS Signatures](https://ethresear.ch/t/bls-signatures-in-solidity/7919)
 - [awesome-solidity-gas-optimization](https://github.com/iskanderandrews/awesome-solidity-gas-optimization)
 
+`SSTORE2` uses the Ethereum contract storage `CREATE2` and `CREATE3` to store storage variables. At a size of more than 32 bytes, this
+allows an improved way of storing variables. There are two interesting libraries implementing this concept:
+
+- [0xsequence/sstore2](https://github.com/0xsequence/sstore2)
+- [Rari-Capital/solmate](https://github.com/Rari-Capital/solmate/blob/main/src/utils/SSTORE2.sol)
+
 ## Solidity
 
 - [List of Solidity libraries in the wild](https://forum.openzeppelin.com/t/list-of-solidity-libraries-in-the-wild/2250)
