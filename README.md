@@ -15,6 +15,7 @@ A list of resources related to increasing the throughput of transactions on the 
 - [BentoBox, to launch and beyond](https://boringcrypto.medium.com/bentobox-to-launch-and-beyond-d2d5dc2350bd)
 - [Optimistic Rollup is Not Secure Enough Than You Think — Game Theoretic Approach for More Verifiable Rollup](https://medium.com/onther-tech/optimistic-rollup-is-not-secure-enough-than-you-think-cb23e6e6f11c)
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
+- [How rollup fees work](https://polynya.medium.com/how-rollup-fees-work-ddaa34f64c08)
 
 ## Protocols
 
