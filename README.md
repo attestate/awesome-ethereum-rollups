@@ -47,6 +47,10 @@ allows an improved way of storing variables. There are two interesting libraries
 - [Erigon DB Walkthrough](https://github.com/ledgerwatch/erigon/blob/devel/docs/programmers_guide/db_walkthrough.MD)
 - [jzaki/bls-wallet](https://github.com/jzaki/bls-wallet)
 
+### Membership-storage data structures
+
+- [OZ's BitMaps implementation](https://docs.openzeppelin.com/contracts/4.x/api/utils#BitMaps)
+
 ### Membership-proof data structures
 
 - [FAN, Bin, et al. Cuckoo filter: Practically better than bloom. In: Proceedings of the 10th ACM International on Conference on emerging Networking Experiments and Technologies. 2014. S. 75-88.](https://dl.acm.org/doi/abs/10.1145/2674005.2674994)
