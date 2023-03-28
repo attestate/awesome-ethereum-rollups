@@ -103,5 +103,6 @@ sparse Merkle trees [can be gas optimized](https://ethresear.ch/t/optimizing-spa
 - Zero Knowledge Proof
   - [Cairo Programming Language](https://www.cairo-lang.org/)
   - [zkSync](https://zksync.io/)
+  - [Polylang](https://github.com/polybase/polylang)
 - Rollup Interoperability
   - [hop.exchange](https://hop.exchange/)
